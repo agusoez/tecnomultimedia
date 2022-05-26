@@ -1,3 +1,7 @@
+//Alvarez Lisette (81833/1), Soñez Agustín (81783/9), Jauregui Rocio (78052/4).
+//Trabajo Práctico 1 - Tecnologia Multimedial 2
+//Comisión 2 - Lisandro Peralta y Abril Aleuy.
+
 import oscP5.*; 
 OscP5 osc; 
 GestorSenial gAmp, gPitch;
